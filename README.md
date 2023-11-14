@@ -1,1 +1,1 @@
-# golang-rest
+# Simple rest-api developed with Gin framework
